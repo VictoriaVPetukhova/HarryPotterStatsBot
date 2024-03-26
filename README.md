@@ -9,7 +9,7 @@
 - pymorphy2 - для морфологического анализа текста.
 - matplotlib - для создания графиков и визуализации данных.
 - SQLite - база данных для хранения информации.
-- Docker - для создания образа и контейнера, в котором запускается бот.
+- Docker
 
 ## PythonAnywhere
 https://www.pythonanywhere.com/user/Tryeesh/files/home/Tryeesh
